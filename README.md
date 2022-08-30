@@ -1,5 +1,15 @@
 # This is  RESTAPI using SpringBoot
 
+#### List of The Example data
+#### Title , Author, Category, Id
+#### Java, Kathy, Tech, 10
+#### Spring, Rachmat, Tech, 11
+#### Fairy Tale, Calista, Fiction, 12
+#### Gym Tutor, Vincent, Health, 13
+#### Log Out, Sisca , Fiction , 14
+
+
+
 ## You can directly access it through 
 ### https://javaspring-rest-api.herokuapp.com/
 
